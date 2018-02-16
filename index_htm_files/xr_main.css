@@ -63,17 +63,15 @@ body {text-align:center;}
 .xr_app {position: absolute;}
 .xr_apb {display:block; position:absolute;}
 .xr_c_Light_Text {color:#FFFFFF;}
-.xr_c_Website_Backdrop {color:#FFFFFF;}
-.xr_c_Theme_Color_2 {color:#E5404E;}
 .xr_c_Theme_Color_1 {color:#1EC7DF;}
-.xr_c_Theme_Color_3 {color:#131313;}
 .xr_c_Navbar {color:#FFFFFF;}
 .xr_c_Text {color:#5C5C5C;}
+.xr_c_Website_Backdrop {color:#FFFFFF;}
 .xr_bgh0 {background: url("90.png") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
 .xr_bgb0 {background:none;}
-.xr_bgb1 {background:url('1.png') -768px 5548px repeat;}
+.xr_bgh1 {background: url("276.png") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
+.xr_bgb1 {background:none;}
 }
 @media print {
  .xr_mvpo {display:none;}
- #xr_xrii{overflow:visible !important; position: relative !important;}
 }
