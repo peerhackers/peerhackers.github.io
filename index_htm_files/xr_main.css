@@ -69,8 +69,7 @@ body {text-align:center;}
 .xr_c_Website_Backdrop {color:#FFFFFF;}
 .xr_bgh0 {background: url("90.png") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
 .xr_bgb0 {background:none;}
-.xr_bgh1 {background: url("335.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb1 {background:none;}
+.xr_bgb1 {background:url('335.jpg') -411px 0px no-repeat; background-attachment:fixed;}
 }
 @media print {
  .xr_mvpo {display:none;}
