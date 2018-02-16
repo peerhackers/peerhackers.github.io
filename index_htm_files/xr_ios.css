@@ -1,10 +1,10 @@
-@media screen and (orientation: portrait) and (max-device-width: 759px), screen and (orientation: landscape) and (max-device-height: 759px) {
+@media screen and (orientation: portrait) and (max-device-width: 754px), screen and (orientation: landscape) and (max-device-height: 754px) {
 .xr_mvp_2 {display: block;}
 .xr_mvp_1 {display: none;}
-.xr_pbd {margin-left: -200px;}
-#xr_xr {width: 400px; height: 3410px}
+.xr_pbd {margin-left: -195px;}
+#xr_xr {width: 390px; height: 3410px}
 }
-@media screen and (orientation: portrait) and (min-device-width: 760px), screen and (orientation: landscape) and (min-device-height: 760px) {
+@media screen and (orientation: portrait) and (min-device-width: 755px), screen and (orientation: landscape) and (min-device-height: 755px) {
 .xr_mvp_2 {display: none;}
 .xr_mvp_1 {display: block;}
 .xr_pbd {margin-left: -560px;}
