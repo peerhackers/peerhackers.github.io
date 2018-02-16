@@ -1,4 +1,7 @@
 ## peerhackers.github.io
+
 current bugs:
+
 both mobile and web load halfway down screen
-mobile has blank space to right, 
+
+mobile has blank space to right, github signup loads wrong.
