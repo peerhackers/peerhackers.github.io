@@ -84,10 +84,10 @@ index_htm_files/428.jpg
 index_htm_files/429.png
 index_htm_files/429@2x.png
 index_htm_files/432.png
-index_htm_files/433.png
-index_htm_files/433@2x.png
 index_htm_files/434.png
 index_htm_files/435.jpg
+index_htm_files/445.png
+index_htm_files/445@2x.png
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
