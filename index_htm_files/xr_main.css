@@ -2,7 +2,7 @@
 body {background-color:#ffffff;margin:0px;font-family:Arial,sans-serif;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;text-rendering:optimizeLegibility;font-feature-settings:'kern', 'liga' 0, 'clig' 0, 'calt' 0;color:#000000;letter-spacing:0em;-webkit-print-color-adjust:exact;}
 a {text-decoration:none;}
 a:link {color:inherit; cursor:pointer;}
-a:visited {color:#FFFFFF;}
+a:visited {color:#7E5376;}
 a:hover {color:#757575;}
 a * {color:inherit;text-decoration:none;}
 sup {font-size:0.5em; vertical-align: 0.66em;}
@@ -62,15 +62,14 @@ body {text-align:center;}
 @media screen, handheld {
 .xr_app {position: absolute;}
 .xr_apb {display:block; position:absolute;}
-.xr_c_Light_Text {color:#FFFFFF;}
+.xr_c_Light_Text {color:#7E5376;}
 .xr_c_Theme_Color_1 {color:#1EC7DF;}
 .xr_c_Navbar {color:#FFFFFF;}
-.xr_c_Text {color:#5C5C5C;}
+.xr_c_Text {color:#AD81A4;}
 .xr_c_Website_Backdrop {color:#FFFFFF;}
 .xr_bgh0 {background: url("90.png") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
 .xr_bgb0 {background:none;}
-.xr_bgh1 {background: url("397.jpg") no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
-.xr_bgb1 {background:none;}
+.xr_bgb1 {background:url('426.png') -1133px 4296px repeat;}
 }
 @media print {
  .xr_mvpo {display:none;}
