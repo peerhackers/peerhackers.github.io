@@ -82,7 +82,7 @@ index_htm_files/367.png
 index_htm_files/367@2x.png
 index_htm_files/368.png
 index_htm_files/368@2x.png
-index_htm_files/375.png
+index_htm_files/382.jpg
 index_htm_files/XaraWDGeneratedHTMLfont1.woff
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDGeneratedHTMLfont2.woff
